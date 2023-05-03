@@ -38,5 +38,5 @@ async def on_message(message):
 # this is the start of the modmail bot #
 if __name__ == '__main__':
     bot.load_extension('cogs.waddermodmail') 
-    bot.run('MTA3NTE0NDgyODMzMDk3MTE4Ng.GoO7_2.KmJKfemVuGhl0yon9OT73Z-15ZNg_YC-qcmJu0')
+    bot.run('MTA3NTE0NDgyODMzMDk3MTE4Ng.GoO7_2.KmJKfemVuGhl0yon9OT73Z-15ZNg_YC-qcmJu0') # this is if you do not want to use dotnev file
 
